@@ -5,263 +5,261 @@
 5    android:versionName="0.1" >
 6
 7    <uses-sdk
-7-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:8:5-44
+7-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:8:5-44
 8        android:minSdkVersion="16"
-8-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:8:15-41
+8-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:8:15-41
 9        android:targetSdkVersion="30" />
-9-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:8:5-44
+9-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:8:5-44
 10
 11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:10:5-81
-11-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:10:22-78
+11-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:10:5-81
+11-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:10:22-78
 12    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
-12-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:11:5-88
-12-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:11:22-85
+12-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:11:5-88
+12-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:11:22-85
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:12:5-67
-13-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:12:22-64
+13-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:12:5-67
+13-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:12:22-64
 14    <uses-permission android:name="android.permission.READ_CONTACTS" />
-14-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:13:5-72
-14-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:13:22-69
+14-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:13:5-72
+14-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:13:22-69
 15    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
-15-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:14:5-74
-15-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:14:22-71
+15-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:14:5-74
+15-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:14:22-71
 16    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
-16-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:15:5-80
-16-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:15:22-77
+16-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:15:5-80
+16-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:15:22-77
 17    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-17-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:16:5-71
-17-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:16:22-68
+17-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:16:5-71
+17-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:16:22-68
 18    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
-18-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:17:5-74
-18-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:17:22-71
+18-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:17:5-74
+18-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:17:22-71
 19    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-19-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:18:5-81
-19-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:18:22-78
+19-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:18:5-81
+19-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:18:22-78
 20
 21    <application
-21-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:20:5-134:19
+21-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:20:5-134:19
 22        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-22-->[com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-3\192ad8f6a0f651ff9f10305663e68198\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+22-->[com.android.support:support-compat:28.0.0] C:\Users\86183\.gradle\caches\transforms-3\192ad8f6a0f651ff9f10305663e68198\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 23        android:debuggable="true"
 24        android:icon="@drawable/icon_app"
-24-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:21:9-42
+24-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:21:9-42
 25        android:label="@string/app_name"
-25-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:22:9-41
+25-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:22:9-41
 26        android:testOnly="true" >
 27        <activity
-27-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:23:9-27:47
+27-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:23:9-27:47
 28            android:name="net.micode.notes.ui.MarkDownActivity"
-28-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:24:13-48
+28-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:24:13-48
 29            android:exported="false"
-29-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:25:13-37
+29-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:25:13-37
 30            android:launchMode="singleTop"
-30-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:26:13-43
+30-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:26:13-43
 31            android:theme="@style/NoteTheme" />
-31-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:27:13-45
+31-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:27:13-45
 32        <activity
-32-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:28:9-41:20
+32-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:28:9-41:20
 33            android:name="net.micode.notes.ui.NotesListActivity"
-33-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:29:13-49
+33-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:29:13-49
 34            android:configChanges="keyboardHidden|orientation|screenSize"
-34-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:30:13-74
+34-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:30:13-74
 35            android:label="@string/app_name"
-35-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:31:13-45
+35-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:31:13-45
 36            android:launchMode="singleTask"
-36-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:32:13-44
+36-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:32:13-44
 37            android:theme="@style/NoteTheme"
-37-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:33:13-45
-38            android:uiOptions="splitActionBarWhenNarrow"
-38-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:34:13-57
-39            android:windowSoftInputMode="adjustPan" >
-39-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:35:13-52
-40            <intent-filter>
-40-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:36:13-40:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:37:17-69
-41-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:37:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:39:17-77
-43-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:39:27-74
-44            </intent-filter>
-45        </activity>
-46        <activity
-46-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:42:9-74:20
-47            android:name="net.micode.notes.ui.NoteEditActivity"
-47-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:43:13-48
-48            android:configChanges="keyboardHidden|orientation|screenSize"
-48-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:44:13-74
-49            android:launchMode="singleTop"
-49-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:45:13-43
-50            android:theme="@style/NoteTheme" >
-50-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:46:13-45
-51            <intent-filter android:scheme="http" >
-51-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:47:13-56:29
-51-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:48:17-38
-52                <action android:name="android.intent.action.VIEW" />
-52-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:50:17-69
-52-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:50:25-66
-53
-54                <category android:name="android.intent.category.DEFAULT" />
-54-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:52:17-76
-54-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:52:27-73
-55
-56                <data android:mimeType="vnd.android.cursor.item/text_note" />
-56-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:17-78
-56-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:23-75
-57                <data android:mimeType="vnd.android.cursor.item/call_note" />
-57-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:17-78
-57-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:23-75
-58            </intent-filter>
-59            <intent-filter>
-59-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:57:13-64:29
-60                <action android:name="android.intent.action.INSERT_OR_EDIT" />
-60-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:58:17-79
-60-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:58:25-76
-61
-62                <category android:name="android.intent.category.DEFAULT" />
-62-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:52:17-76
-62-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:52:27-73
-63
-64                <data android:mimeType="vnd.android.cursor.item/text_note" />
-64-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:17-78
-64-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:23-75
-65                <data android:mimeType="vnd.android.cursor.item/call_note" />
-65-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:17-78
-65-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:54:23-75
-66            </intent-filter>
-67            <intent-filter>
-67-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:65:13-69:29
-68                <action android:name="android.intent.action.SEARCH" />
-68-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:66:17-71
-68-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:66:25-68
-69
-70                <category android:name="android.intent.category.DEFAULT" />
-70-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:52:17-76
-70-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:52:27-73
-71            </intent-filter>
-72
-73            <meta-data
-73-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:71:13-73:54
-74                android:name="android.app.searchable"
-74-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:72:17-54
-75                android:resource="@xml/searchable" />
-75-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:73:17-51
-76        </activity>
-77
-78        <provider
-78-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:76:9-79:43
-79            android:name="net.micode.notes.data.NotesProvider"
-79-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:77:13-63
-80            android:authorities="micode_notes"
-80-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:78:13-47
-81            android:multiprocess="true" />
-81-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:79:13-40
-82
-83        <receiver
-83-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:81:9-93:20
-84            android:name="net.micode.notes.widget.NoteWidgetProvider_2x"
-84-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:82:13-57
-85            android:label="@string/app_widget2x2" >
-85-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:83:13-50
-86            <intent-filter>
-86-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:84:13-88:29
-87                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-87-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:85:17-84
-87-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:85:25-81
-88                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
-88-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:86:17-85
-88-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:86:25-82
-89                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
-89-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:87:17-85
-89-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:87:25-82
-90            </intent-filter>
-91
-92            <meta-data
-92-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:90:13-92:58
-93                android:name="android.appwidget.provider"
-93-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:91:17-58
-94                android:resource="@xml/widget_2x_info" />
-94-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:92:17-55
-95        </receiver>
-96        <receiver
-96-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:94:9-106:20
-97            android:name="net.micode.notes.widget.NoteWidgetProvider_4x"
-97-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:95:13-57
-98            android:label="@string/app_widget4x4" >
-98-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:96:13-50
-99            <intent-filter>
-99-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:84:13-88:29
-100                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-100-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:85:17-84
-100-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:85:25-81
-101                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
-101-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:86:17-85
-101-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:86:25-82
-102                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
-102-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:87:17-85
-102-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:87:25-82
-103            </intent-filter>
-104
-105            <meta-data
-105-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:90:13-92:58
-106                android:name="android.appwidget.provider"
-106-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:91:17-58
-107                android:resource="@xml/widget_4x_info" />
-107-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:92:17-55
-108        </receiver>
-109        <receiver android:name="net.micode.notes.ui.AlarmInitReceiver" >
-109-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:107:9-111:20
-109-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:107:19-55
-110            <intent-filter>
-110-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:108:13-110:29
-111                <action android:name="android.intent.action.BOOT_COMPLETED" />
-111-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:109:17-79
-111-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:109:25-76
-112            </intent-filter>
-113        </receiver>
-114        <receiver
-114-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:112:9-114:50
-115            android:name="net.micode.notes.ui.AlarmReceiver"
-115-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:113:13-45
-116            android:process=":remote" />
-116-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:114:13-38
-117
-118        <activity
-118-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:116:9-120:87
-119            android:name="net.micode.notes.ui.AlarmAlertActivity"
-119-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:117:13-50
-120            android:label="@string/app_name"
-120-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:118:13-45
-121            android:launchMode="singleInstance"
-121-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:119:13-48
-122            android:theme="@android:style/Theme.Holo.Wallpaper.NoTitleBar" />
-122-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:120:13-75
-123        <activity
-123-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:121:9-125:72
-124            android:name="net.micode.notes.ui.NotesPreferenceActivity"
-124-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:122:13-55
-125            android:label="@string/preferences_title"
-125-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:123:13-54
-126            android:launchMode="singleTop"
-126-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:124:13-43
-127            android:theme="@android:style/Theme.Holo.Light" />
-127-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:125:13-60
-128
-129        <service
-129-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:127:9-129:48
-130            android:name="net.micode.notes.gtask.remote.GTaskSyncService"
-130-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:128:13-74
-131            android:exported="false" />
-131-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:129:13-37
-132
-133        <meta-data
-133-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:131:9-133:52
-134            android:name="android.app.default_searchable"
-134-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:132:13-58
-135            android:value=".ui.NoteEditActivity" />
-135-->D:\academy\2down\Notes-master\minote\app\src\main\AndroidManifest.xml:133:13-49
-136    </application>
-137
-138</manifest>
+37-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:33:13-45
+38            android:windowSoftInputMode="adjustPan" >
+38-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:35:13-52
+39            <intent-filter>
+39-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:36:13-40:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:37:17-69
+40-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:37:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:39:17-77
+42-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:39:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:42:9-74:20
+46            android:name="net.micode.notes.ui.NoteEditActivity"
+46-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:43:13-48
+47            android:configChanges="keyboardHidden|orientation|screenSize"
+47-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:44:13-74
+48            android:launchMode="singleTop"
+48-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:45:13-43
+49            android:theme="@style/NoteTheme" >
+49-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:46:13-45
+50            <intent-filter android:scheme="http" >
+50-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:47:13-56:29
+50-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:48:17-38
+51                <action android:name="android.intent.action.VIEW" />
+51-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:50:17-69
+51-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:50:25-66
+52
+53                <category android:name="android.intent.category.DEFAULT" />
+53-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:52:17-76
+53-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:52:27-73
+54
+55                <data android:mimeType="vnd.android.cursor.item/text_note" />
+55-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:17-78
+55-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:23-75
+56                <data android:mimeType="vnd.android.cursor.item/call_note" />
+56-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:17-78
+56-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:23-75
+57            </intent-filter>
+58            <intent-filter>
+58-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:57:13-64:29
+59                <action android:name="android.intent.action.INSERT_OR_EDIT" />
+59-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:58:17-79
+59-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:58:25-76
+60
+61                <category android:name="android.intent.category.DEFAULT" />
+61-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:52:17-76
+61-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:52:27-73
+62
+63                <data android:mimeType="vnd.android.cursor.item/text_note" />
+63-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:17-78
+63-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:23-75
+64                <data android:mimeType="vnd.android.cursor.item/call_note" />
+64-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:17-78
+64-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:54:23-75
+65            </intent-filter>
+66            <intent-filter>
+66-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:65:13-69:29
+67                <action android:name="android.intent.action.SEARCH" />
+67-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:66:17-71
+67-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:66:25-68
+68
+69                <category android:name="android.intent.category.DEFAULT" />
+69-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:52:17-76
+69-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:52:27-73
+70            </intent-filter>
+71
+72            <meta-data
+72-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:71:13-73:54
+73                android:name="android.app.searchable"
+73-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:72:17-54
+74                android:resource="@xml/searchable" />
+74-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:73:17-51
+75        </activity>
+76
+77        <provider
+77-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:76:9-79:43
+78            android:name="net.micode.notes.data.NotesProvider"
+78-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:77:13-63
+79            android:authorities="micode_notes"
+79-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:78:13-47
+80            android:multiprocess="true" />
+80-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:79:13-40
+81
+82        <receiver
+82-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:81:9-93:20
+83            android:name="net.micode.notes.widget.NoteWidgetProvider_2x"
+83-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:82:13-57
+84            android:label="@string/app_widget2x2" >
+84-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:83:13-50
+85            <intent-filter>
+85-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:84:13-88:29
+86                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+86-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:85:17-84
+86-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:85:25-81
+87                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
+87-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:86:17-85
+87-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:86:25-82
+88                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
+88-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:87:17-85
+88-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:87:25-82
+89            </intent-filter>
+90
+91            <meta-data
+91-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:90:13-92:58
+92                android:name="android.appwidget.provider"
+92-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:91:17-58
+93                android:resource="@xml/widget_2x_info" />
+93-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:92:17-55
+94        </receiver>
+95        <receiver
+95-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:94:9-106:20
+96            android:name="net.micode.notes.widget.NoteWidgetProvider_4x"
+96-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:95:13-57
+97            android:label="@string/app_widget4x4" >
+97-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:96:13-50
+98            <intent-filter>
+98-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:84:13-88:29
+99                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+99-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:85:17-84
+99-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:85:25-81
+100                <action android:name="android.appwidget.action.APPWIDGET_DELETED" />
+100-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:86:17-85
+100-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:86:25-82
+101                <action android:name="android.intent.action.PRIVACY_MODE_CHANGED" />
+101-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:87:17-85
+101-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:87:25-82
+102            </intent-filter>
+103
+104            <meta-data
+104-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:90:13-92:58
+105                android:name="android.appwidget.provider"
+105-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:91:17-58
+106                android:resource="@xml/widget_4x_info" />
+106-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:92:17-55
+107        </receiver>
+108        <receiver android:name="net.micode.notes.ui.AlarmInitReceiver" >
+108-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:107:9-111:20
+108-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:107:19-55
+109            <intent-filter>
+109-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:108:13-110:29
+110                <action android:name="android.intent.action.BOOT_COMPLETED" />
+110-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:109:17-79
+110-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:109:25-76
+111            </intent-filter>
+112        </receiver>
+113        <receiver
+113-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:112:9-114:50
+114            android:name="net.micode.notes.ui.AlarmReceiver"
+114-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:113:13-45
+115            android:process=":remote" />
+115-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:114:13-38
+116
+117        <activity
+117-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:116:9-120:87
+118            android:name="net.micode.notes.ui.AlarmAlertActivity"
+118-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:117:13-50
+119            android:label="@string/app_name"
+119-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:118:13-45
+120            android:launchMode="singleInstance"
+120-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:119:13-48
+121            android:theme="@android:style/Theme.Holo.Wallpaper.NoTitleBar" />
+121-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:120:13-75
+122        <activity
+122-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:121:9-125:72
+123            android:name="net.micode.notes.ui.NotesPreferenceActivity"
+123-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:122:13-55
+124            android:label="@string/preferences_title"
+124-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:123:13-54
+125            android:launchMode="singleTop"
+125-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:124:13-43
+126            android:theme="@android:style/Theme.Holo.Light" />
+126-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:125:13-60
+127
+128        <service
+128-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:127:9-129:48
+129            android:name="net.micode.notes.gtask.remote.GTaskSyncService"
+129-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:128:13-74
+130            android:exported="false" />
+130-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:129:13-37
+131
+132        <meta-data
+132-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:131:9-133:52
+133            android:name="android.app.default_searchable"
+133-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:132:13-58
+134            android:value=".ui.NoteEditActivity" />
+134-->C:\Users\86183\Desktop\program\minote\minote\app\src\main\AndroidManifest.xml:133:13-49
+135    </application>
+136
+137</manifest>
