@@ -145,7 +145,13 @@ public class NotesListActivity extends Activity implements OnClickListener, OnIt
         super.onCreate(savedInstanceState);
         setContentView(R.layout.note_list);
         initResources();
-
+ Button bt_pswb=findViewById(R.id.bt_pswb);
+        bt_pswb.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+              startActivity(new Intent(NotesListActivity.this,PswbActivity.class));
+            }
+        });
         /**
          * Insert an introduction when user firstly use this application
          */

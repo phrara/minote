@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/drawable/et_selector.xml" value="0.1" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/activity_main.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/activity_pswb.xml" value="0.22" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/activity_read.xml" value="0.1" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/activity_write.xml" value="0.11684782608695653" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/edit_layout.xml" value="0.1" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/listview_item.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/layout/note_list.xml" value="0.11684782608695653" />
         <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/menu/call_note_edit.xml" value="0.22" />
         <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/menu/call_record_folder.xml" value="0.15885416666666666" />
         <entry key="..\:/Users/86183/Desktop/program/minote/minote/app/src/main/res/menu/note_edit.xml" value="0.1390625" />

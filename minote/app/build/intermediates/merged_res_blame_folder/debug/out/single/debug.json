@@ -60,6 +60,10 @@
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\edit_title_white.9.png"
     },
     {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable_et_selector.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable\\et_selector.xml"
+    },
+    {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_search_result.png.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\search_result.png"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_folder.9.png.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\list_folder.9.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_listview_item.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\listview_item.xml"
     },
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_blue_middle.9.png.flat",
@@ -172,6 +180,10 @@
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\list_blue_single.9.png"
     },
     {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_add_account_text.xml.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\add_account_text.xml"
     },
@@ -264,12 +276,20 @@
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\note_list_dropdown_menu.xml"
     },
     {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_pswb.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\activity_pswb.xml"
+    },
+    {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_note_list.xml.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\note_list.xml"
     },
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_edit_title_red.9.png.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\edit_title_red.9.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_edit_layout.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\edit_layout.xml"
     },
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_call_record.png.flat",
@@ -306,6 +326,10 @@
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_title_alert.png.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\title_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_write.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\activity_write.xml"
     },
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_up.9.png.flat",
@@ -354,6 +378,10 @@
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_red_middle.9.png.flat",
         "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\drawable-hdpi\\list_red_middle.9.png"
+    },
+    {
+        "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_read.xml.flat",
+        "source": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\src\\main\\res\\layout\\activity_read.xml"
     },
     {
         "merged": "C:\\Users\\86183\\Desktop\\program\\minote\\minote\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_selected.png.flat",

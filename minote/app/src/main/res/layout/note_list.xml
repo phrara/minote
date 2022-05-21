@@ -36,7 +36,11 @@
             android:singleLine="true"
             android:textColor="#FFEAD1AE"
             android:textSize="@dimen/text_font_size_medium" />
-
+<Button
+    android:id="@+id/bt_pswb"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="密码箱"/>
         <ListView
             android:id="@+id/notes_list"
             android:layout_width="fill_parent"
