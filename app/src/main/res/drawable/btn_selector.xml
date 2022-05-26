@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--用于所有的按钮的状态。按钮状态有两个：通常情况和按下情况-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 通常状态 -->
+    <item android:drawable="@drawable/btn_normal" android:state_pressed="false"/>
+
+    <!-- 按下状态 -->
+    <item android:drawable="@drawable/btn_pressed" android:state_pressed="true"/>
+</selector>
