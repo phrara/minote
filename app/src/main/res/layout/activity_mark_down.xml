@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.MarkDownActivity">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/list_background"
+        tools:ignore="MissingConstraints">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:background="@drawable/enc_write">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/BackBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="返回"
+                    android:layout_marginLeft="5dp"></Button>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="7dip"
+                    android:background="@drawable/bg_color_btn_mask" />
+
+                <ScrollView
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dip"
+                    android:layout_weight="1"
+                    android:scrollbars="none"
+                    android:overScrollMode="never"
+                    android:layout_gravity="left|top"
+                    android:fadingEdgeLength="0dip">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:orientation="horizontal">
+
+                        <net.micode.notes.ui.NoteEditText
+                            android:id="@+id/md_view"
+                            android:layout_width="396dp"
+                            android:layout_height="513dp"
+                            android:layout_marginLeft="7dp"
+                            android:autoLink="all"
+                            android:background="@null"
+                            android:gravity="left|top"
+                            android:lineSpacingMultiplier="1.2"
+                            android:linksClickable="false"
+                            android:minLines="12"
+                            android:textAppearance="@style/TextAppearancePrimaryItem"
+                            android:textColor="#f4f4f4"/>
+
+                        <LinearLayout
+                            android:id="@+id/note_edit_list"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical"
+                            android:layout_marginLeft="-10dip"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                </ScrollView>
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="7dip"
+                    android:background="@drawable/bg_color_btn_mask" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+
+
+
+</android.support.constraint.ConstraintLayout>

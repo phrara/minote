@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/drawable/btn_markdown.xml" value="0.1" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/drawable/btn_normal.xml" value="0.1075" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/drawable/btn_selector.xml" value="0.1415" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/drawable/notelist_pswb_style.xml" value="0.1" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/layout/edit_layout.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/layout/enc_listview_item.xml" value="0.1" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/layout/enc_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/layout/enc_read.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/layout/enc_verify.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/86183/Desktop/program/minote_last/minote/app/src/main/res/layout/enc_write.xml" value="0.18385416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK" />
+</project>
