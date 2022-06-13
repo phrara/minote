@@ -1,4 +1,4 @@
-#Fri May 27 00:24:08 CST 2022
+#Mon Jun 13 16:39:55 CST 2022
 base.0=D\:\\academy\\2down\\minote-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

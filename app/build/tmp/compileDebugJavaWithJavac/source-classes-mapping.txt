@@ -9,20 +9,15 @@ net/micode/notes/model/WorkingNote.java
  net.micode.notes.model.WorkingNote$NoteSettingChangedListener
 net/micode/notes/gtask/data/Task.java
  net.micode.notes.gtask.data.Task
-net/micode/notes/tool/GTaskStringUtils.java
- net.micode.notes.tool.GTaskStringUtils
+net/micode/notes/ui/AlarmAlertActivity.java
+ net.micode.notes.ui.AlarmAlertActivity
 net/micode/notes/tool/BackupUtils.java
  net.micode.notes.tool.BackupUtils
  net.micode.notes.tool.BackupUtils$TextExport
 net/micode/notes/gtask/data/MetaData.java
  net.micode.notes.gtask.data.MetaData
-net/micode/notes/ui/Enc_ReadAdapter.java
- net.micode.notes.ui.Enc_ReadAdapter
- net.micode.notes.ui.Enc_ReadAdapter$1
- net.micode.notes.ui.Enc_ReadAdapter$1$1
- net.micode.notes.ui.Enc_ReadAdapter$1$2
- net.micode.notes.ui.Enc_ReadAdapter$2
- net.micode.notes.ui.Enc_ReadAdapter$ViewHolder
+net/micode/notes/widget/NoteWidgetProvider.java
+ net.micode.notes.widget.NoteWidgetProvider
 net/micode/notes/ui/DateTimePickerDialog.java
  net.micode.notes.ui.DateTimePickerDialog
  net.micode.notes.ui.DateTimePickerDialog$1
@@ -108,35 +103,6 @@ net/micode/notes/ui/NotesListAdapter.java
  net.micode.notes.ui.NotesListAdapter$AppWidgetAttribute
 net/micode/notes/gtask/data/Node.java
  net.micode.notes.gtask.data.Node
-net/micode/notes/data/NotesProvider.java
- net.micode.notes.data.NotesProvider
-net/micode/notes/ui/Enc_PswbActivity.java
- net.micode.notes.ui.Enc_PswbActivity
- net.micode.notes.ui.Enc_PswbActivity$1
-net/micode/notes/ui/Enc_ReadActivity.java
- net.micode.notes.ui.Enc_ReadActivity
-net/micode/notes/gtask/exception/ActionFailureException.java
- net.micode.notes.gtask.exception.ActionFailureException
-net/micode/notes/data/Contact.java
- net.micode.notes.data.Contact
-net/micode/notes/ui/DateTimePicker.java
- net.micode.notes.ui.DateTimePicker
- net.micode.notes.ui.DateTimePicker$1
- net.micode.notes.ui.DateTimePicker$2
- net.micode.notes.ui.DateTimePicker$3
- net.micode.notes.ui.DateTimePicker$4
- net.micode.notes.ui.DateTimePicker$OnDateTimeChangedListener
-net/micode/notes/ui/MarkDownActivity.java
- net.micode.notes.ui.MarkDownActivity
- net.micode.notes.ui.MarkDownActivity$1
-net/micode/notes/gtask/data/SqlData.java
- net.micode.notes.gtask.data.SqlData
-net/micode/notes/ui/AlarmAlertActivity.java
- net.micode.notes.ui.AlarmAlertActivity
-net/micode/notes/ui/NoteItemData.java
- net.micode.notes.ui.NoteItemData
-net/micode/notes/widget/NoteWidgetProvider.java
- net.micode.notes.widget.NoteWidgetProvider
 net/micode/notes/ui/NotesListActivity.java
  net.micode.notes.ui.NotesListActivity
  net.micode.notes.ui.NotesListActivity$1
@@ -156,6 +122,15 @@ net/micode/notes/ui/NotesListActivity.java
  net.micode.notes.ui.NotesListActivity$ModeCallback$2
  net.micode.notes.ui.NotesListActivity$NewNoteOnTouchListener
  net.micode.notes.ui.NotesListActivity$OnListItemClickListener
+net/micode/notes/ui/Enc_PswbActivity.java
+ net.micode.notes.ui.Enc_PswbActivity
+ net.micode.notes.ui.Enc_PswbActivity$1
+net/micode/notes/ui/NoteItemData.java
+ net.micode.notes.ui.NoteItemData
+net/micode/notes/gtask/exception/ActionFailureException.java
+ net.micode.notes.gtask.exception.ActionFailureException
+net/micode/notes/data/Contact.java
+ net.micode.notes.data.Contact
 net/micode/notes/ui/NoteEditActivity.java
  net.micode.notes.ui.NoteEditActivity
  net.micode.notes.ui.NoteEditActivity$1
@@ -170,3 +145,28 @@ net/micode/notes/ui/NoteEditActivity.java
  net.micode.notes.ui.NoteEditActivity$8
  net.micode.notes.ui.NoteEditActivity$9
  net.micode.notes.ui.NoteEditActivity$HeadViewHolder
+net/micode/notes/ui/MarkDownActivity.java
+ net.micode.notes.ui.MarkDownActivity
+ net.micode.notes.ui.MarkDownActivity$1
+net/micode/notes/gtask/data/SqlData.java
+ net.micode.notes.gtask.data.SqlData
+net/micode/notes/ui/DateTimePicker.java
+ net.micode.notes.ui.DateTimePicker
+ net.micode.notes.ui.DateTimePicker$1
+ net.micode.notes.ui.DateTimePicker$2
+ net.micode.notes.ui.DateTimePicker$3
+ net.micode.notes.ui.DateTimePicker$4
+ net.micode.notes.ui.DateTimePicker$OnDateTimeChangedListener
+net/micode/notes/data/NotesProvider.java
+ net.micode.notes.data.NotesProvider
+net/micode/notes/ui/Enc_ReadAdapter.java
+ net.micode.notes.ui.Enc_ReadAdapter
+ net.micode.notes.ui.Enc_ReadAdapter$1
+ net.micode.notes.ui.Enc_ReadAdapter$1$1
+ net.micode.notes.ui.Enc_ReadAdapter$1$2
+ net.micode.notes.ui.Enc_ReadAdapter$2
+ net.micode.notes.ui.Enc_ReadAdapter$ViewHolder
+net/micode/notes/ui/Enc_ReadActivity.java
+ net.micode.notes.ui.Enc_ReadActivity
+net/micode/notes/tool/GTaskStringUtils.java
+ net.micode.notes.tool.GTaskStringUtils
