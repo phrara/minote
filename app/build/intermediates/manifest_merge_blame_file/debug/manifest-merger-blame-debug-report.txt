@@ -42,7 +42,7 @@
 21    <application
 21-->D:\academy\2down\minote-master\app\src\main\AndroidManifest.xml:20:5-145:19
 22        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-22-->[com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-3\192ad8f6a0f651ff9f10305663e68198\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+22-->[com.android.support:support-compat:28.0.0] D:\.gradle\caches\transforms-3\192ad8f6a0f651ff9f10305663e68198\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 23        android:debuggable="true"
 24        android:icon="@drawable/icon_app"
 24-->D:\academy\2down\minote-master\app\src\main\AndroidManifest.xml:21:9-42

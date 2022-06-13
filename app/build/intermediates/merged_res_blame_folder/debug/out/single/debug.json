@@ -8,20 +8,20 @@
         "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\xml\\searchable.xml"
     },
     {
-        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_down.9.png.flat",
-        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\list_green_down.9.png"
-    },
-    {
         "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_notelist_pswb_style.xml.flat",
         "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable\\notelist_pswb_style.xml"
     },
     {
-        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_yellow_up.9.png.flat",
-        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\list_yellow_up.9.png"
+        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_green_down.9.png.flat",
+        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\list_green_down.9.png"
     },
     {
         "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_pswb_bkg1.png.flat",
         "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\pswb_bkg1.png"
+    },
+    {
+        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_yellow_up.9.png.flat",
+        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\list_yellow_up.9.png"
     },
     {
         "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\layout_settings_header.xml.flat",
@@ -84,16 +84,16 @@
         "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\widget_2x_red.png"
     },
     {
-        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_new_note.xml.flat",
-        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable\\new_note.xml"
+        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_background.png.flat",
+        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\list_background.png"
     },
     {
         "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_selector.xml.flat",
         "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable\\btn_selector.xml"
     },
     {
-        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_list_background.png.flat",
-        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable-hdpi\\list_background.png"
+        "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_new_note.xml.flat",
+        "source": "D:\\academy\\2down\\minote-master\\app\\src\\main\\res\\drawable\\new_note.xml"
     },
     {
         "merged": "D:\\academy\\2down\\minote-master\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_notification.png.flat",
